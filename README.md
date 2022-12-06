@@ -1,6 +1,5 @@
-# sobre min 
-  
-Óla sou o Kayan Melo Coutinho
-Tenho 15 anos 
-Mora em Siqueira Campos PR
-E esse e meu repositorio
+# Olá, me chamo Kayan Melo !  
+## Bem vindo ao meu perfil GitHub 👋 
+🌱 Atualmente estou aprendendo lingugem corporal
+- 📫 Como entrar em contato comigo:(43) 96445887
+- ⚡ Curiosidade:Tenho facilidade para utilizar o computador
